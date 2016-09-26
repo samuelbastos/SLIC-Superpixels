@@ -1,3 +1,2 @@
 # SLIC-Superpixels
 
-Olá
